@@ -1,0 +1,339 @@
+ssh-keygen
+cd
+pwd
+ls-la
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+cd
+pwd
+sudo apt install git
+git --version
+pwd
+git clone git@github.com:MatyRoig/Tp_Ayso.git
+cp README Tp_Ayso
+cd Tp_Ayso/
+ls -la
+git status
+git add README 
+git status
+git commit -m "Copia de README"
+git config --global user.name "MatyRoig"
+git config --global user.email "matyroig06@gmail.com"
+git commit --amend --reset author
+git commit --amend --reset-author
+git push origin main
+pwd
+ls -la
+cd Tp_Ayso/
+git push origin main
+git status
+git push 
+git push origin main
+git commit -m "Nuevo Commit"
+git push origin main
+cd
+ls -la
+cd
+ls -la
+cd repogit
+git clone git@github.com:MatyRoig/Tp_Ayso.git
+cd Tp_Ayso/
+pwd
+ls -la
+cd
+exit
+cd
+cat /etc/os-release
+cd repogit
+cat /etc/os-release
+pwd
+ls -la
+cd Tp_Ayso/
+ls -la
+cat /etc/os-release
+cd home
+cd
+pwd
+whoami
+echo “Usuario=$(vagrant)” > datos_usuario.txt 
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+cd repogit
+cd Tp_Ayso/
+man grep
+grep .i HOME_URL /etc/os-release
+ls
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add . 
+git config --global user.email "matyroig06@gmail.com"
+git config --global user.name
+"MatyRoig"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+vagrant halt
+cd
+pwd
+vagrant halt
+pwwd
+pwd
+cd 
+vagrant halt
+apt install vagrant
+grep "model name" /proc/cpuinfo|head -n1
+grep "model name" /proc/cpuinfo|head -n1 >>
+pwd datos_usuario.txt
+cd datos_usuario.txt
+ls -la
+cd datos_usuario.txt
+cd repogit
+ls -la
+Tp_Ayso/
+ls -la
+cd Tp_Ayso/
+ls -la
+cd datos_usuario.txt
+datos_usuario.txt grep "model name" /proc/cpuinfo|head -n1 >>
+grep "model name" /proc/cpuinfo|head -n1 >>datos_usuario.txt
+git commit -m “feat: Añadiendo información de CPU”
+git commit “feat: Añadiendo información de CPU”
+git status
+git add .
+git status
+git commit “feat: Añadiendo información de CPU”
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo informacion de CPU"
+git push
+git status
+cd
+vagrant status
+pwd
+ls -la
+cd repogit
+ls -la
+cd Tp_Ayso/
+ls -la
+Alumno:Matias Roig >> README.md
+grep Alumno : Matias Roig | Division: 116 |Turno: Mañana >> README.md
+cd README.md
+cat <<EOF>>README.md Alumno:Matias Roig Division: 116 Turno : Mañana EOF
+pwddpws
+pwd
+cat <<EOF>> README.md
+Alumno: Matias Roig
+Division: 116
+Turno: Mañana
+
+cd
+EOF
+
+cat <<EOF>> READM.md
+Alumno: Matias Roig
+Division: 116
+Turno: Mañana
+EOF
+
+git status
+pwd
+git status
+git add . 
+ls -la
+cd READM.md
+cd README.md
+git status
+cd repogit
+git status
+cd
+git status
+cd repogit
+git clone git@github.com:MatyRoig/Tp_Ayso.git
+Tp_Ayso/
+cd
+cd Tp_Ayso/
+git status
+cat <<EOF>> README.md
+Alumno: Matias Roig
+Division: 116
+Turno: Mañana
+EOF
+
+git status
+git add .
+git status
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+ls -la
+cd README.md
+git status
+git push
+git pull
+git status
+git add . 
+git push
+git push --help
+cat <<EOF>> README.md
+Alumno: <Matias Roig>
+Division: <116>
+Turno: <Mañana>
+EOF
+
+git status
+git add .
+git status
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+git push --help
+git status
+git pull
+git config pull .ff only
+git status
+git push origin main
+git pull origin branch-name
+git push origin branch-name
+git pull origin main --rebase
+git push origin main
+git status
+git push
+mkdir -p ~/materia1/uni{1,2,3} ~/materia2/uni{1,2,3
+cd
+mkdir -p ~/materia1/uni{1,2,3} ~/materia2/uni{1,2,3
+#!/bin/bash script_dir.sh
+ls -l
+#!/bin/bash
+sudo chmod 777 script_dir.sh
+echo '#!/bin/bash' > script_dir.sh
+echo 'mkdir -p materia{1,2}/uni{1,2,3}' >> script_dir.sh
+chmod 755 script_dir.sh
+ls -l
+ls -l script_dir.sh 
+pwd
+git add .
+ls -l
+cd repogit/
+cd Tp_Ayso/
+
+git add .
+git commit -m "ADD: Añadiendo script
+
+
+git remote -v
+git pus
+pwd
+cd
+pwd
+ls -la
+echo 'mkdir -p ~/materia1/uni{1,2,3} ~/materia2/uni{1,2,3}' > script_dir.sh
+chmod +x script_dir.sh
+git add script_dir.sh
+cd repogit
+cd Tp_Ayso/
+echo 'mkdir -p ~/materia1/uni{1,2,3} ~/materia2/uni{1,2,3}' > script_dir.sh
+chmod +x script_dir.sh
+git add script_dir.sh
+chmod 755 script_dir.sh
+ls -l script_dir.sh
+pwd
+git add .
+git status
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+git pull origin main --rebase
+git push origin main
+git add .
+git status
+git push
+mv ~/script_dir.sh ~/repogit/TP_AySO/
+git add . 
+git status
+git commit -m "ADD: Añadiendo archivos iniciales"
+git push
+matue@MatiasRoig MINGW64 ~/Desktop/vagrant/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ vagrant status
+Current machine states:
+default                   poweroff (virtualbox)
+The VM is powered off. To restart the VM, simply run `vagrant up`
+matue@MatiasRoig MINGW64 ~/Desktop/vagrant/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ vagrant up
+Bringing machine 'default' up with 'virtualbox' provider...
+==> default: Checking if box 'ubuntu/jammy64' version '20241002.0.0' is up to date...
+==> default: Clearing any previously set forwarded ports...
+==> default: Clearing any previously set network interfaces...
+==> default: Preparing network interfaces based on configuration...
+==> default: Forwarding ports...
+==> default: Running 'pre-boot' VM customizations...
+==> default: Booting VM...
+==> default: Waiting for machine to boot. This may take a few minutes...
+==> default: Machine booted and ready!
+==> default: Checking for guest additions in VM...
+==> default: Setting hostname...
+==> default: Configuring and enabling network interfaces...
+==> default: Mounting shared folders...
+==> default: Machine already provisioned. Run `vagrant provision` or use the `--provision`
+==> default: flag to force provisioning. Provisioners marked to run always will still run.
+==> default: Machine 'default' has a post `vagrant up` message. This is a message
+==> default: from the creator of the Vagrantfile, and not from Vagrant itself:
+==> default:
+==> default:   ###########################################################################
+==> default:   #
+==> default:   # Para Ingresar a la VM puede usar cualquiera de las dos opciones:
+==> default:   #
+==> default:   ###########################################################################
+==> default:   # 1. (usar Vagrant)
+==> default:
+==> default:   vagrant ssh
+==> default:
+==> default:   # 2. Usar SSH indicando la key Privada
+matue@MatiasRoig MINGW64 ~/Desktop/vagrant/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ vagrant status
+Current machine states:
+default                   poweroff (virtualbox)
+The VM is powered off. To restart the VM, simply run `vagrant up`
+matue@MatiasRoig MINGW64 ~/Desktop/vagrant/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ vagrant up
+Bringing machine 'default' up with 'virtualbox' provider...
+==> default: Checking if box 'ubuntu/jammy64' version '20241002.0.0' is up to date...
+==> default: Clearing any previously set forwarded ports...
+==> default: Clearing any previously set network interfaces...
+==> default: Preparing network interfaces based on configuration...
+==> default: Forwarding ports...
+==> default: Running 'pre-boot' VM customizations...
+==> default: Booting VM...
+==> default: Waiting for machine to boot. This may take a few minutes...
+==> default: Machine booted and ready!
+==> default: Checking for guest additions in VM...
+==> default: Setting hostname...
+==> default: Configuring and enabling network interfaces...
+==> default: Mounting shared folders...
+==> default: Machine already provisioned. Run `vagrant provision` or use the `--provision`
+==> default: flag to force provisioning. Provisioners marked to run always will still run.
+==> default: Machine 'default' has a post `vagrant up` message. This is a message
+==> default: from the creator of the Vagrantfile, and not from Vagrant itself:
+==> default:
+==> default:   ###########################################################################
+==> default:   #
+==> default:   # Para Ingresar a la VM puede usar cualquiera de las dos opciones:
+==> default:   #
+==> default:   ###########################################################################
+==> default:   # 1. (usar Vagrant)
+==> default:
+==> default:   vagrant ssh
+==> default:
+==> default:   # 2. Usar SSH indicando la key Privada
+==> default:   # Puede usar la private_key proporcionada por vagrant
+==> default:
+==> default:   ssh -i .vagrant/machines/default/virtualbox/private_key vagrant@192.168.56.2
+==> default:
+matue@MatiasRoig MINGW64 ~/Desktop/vagrant/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ vagrant ssh
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 5.15.0-135-generic x86_64)
+cd
+history -a
+ls -la
+cd Repogit
+cd Tp_Ayso/
+ls -la
+history -a
